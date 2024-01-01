@@ -1,0 +1,34 @@
+
+.icon{
+    width: 6vh;
+    height: 6vh;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+.header__container_lable{
+    font-size: 40px;
+}
+.section__container_requests{
+    text-align: center;
+}
+.section__container_requests table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.section__container_requests th{
+    background-color: wheat;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+.section__container_requests td{
+    padding: 3px;
+    border: 1px solid black;
+}
+.footer__container_lists{
+    padding: 6vh;
+}
