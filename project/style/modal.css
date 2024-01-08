@@ -45,8 +45,10 @@
 .btn-close:hover {
     opacity: 1;
 }
+.dop-options{
+    box-shadow: 0 0 1vh #32CD32;
+}
 
-
-.leaflet-control-container {
+.leaflet-control-container:focus {
     z-index: 0;
 }
