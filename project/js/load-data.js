@@ -16,4 +16,4 @@ function lodData() {
             } 
         }());
     console.log("Data is loading");
-    }
+}

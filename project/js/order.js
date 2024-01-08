@@ -50,5 +50,4 @@ for (var i = 0; i < onViuew.length; i++) {
         modal.style.display = "flex";
         modal.getElementsByClassName("btn-send")[0].id = "";
     };
-
 }

@@ -13,7 +13,7 @@ input2.oninput = function () {
             guidsTable[i].style.display = "";
         }
     }
-}
+    }
 
 input1.oninput = function () {
     var choised = parseInt(document.getElementById("select-route").value)

@@ -11,6 +11,7 @@ import (
 	Description string
 	MainObject  string
 	Coords      [2][2]float64
+
 }*/
 
 type Routes struct {
